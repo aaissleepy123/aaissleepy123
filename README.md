@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: building a betting app, trading strats and bots
 - 📫 How to reach me: ughhhh dont
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: nah
+- ⚡ Fun fact: im writing a boooook
 
 <!---
 aaissleepy123/aaissleepy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
