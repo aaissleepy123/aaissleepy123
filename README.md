@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @aaissleepy123
-- 👀 I’m interested in you
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on trading strats and bots
+- 👀 I’m interested in: you
+- 🌱 I’m currently learning: how to code
+- 💞️ I’m looking to collaborate on: building a betting app, trading strats and bots
 - 📫 How to reach me: ughhhh dont
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: 
+- ⚡ Fun fact: nah
 
 <!---
 aaissleepy123/aaissleepy123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
