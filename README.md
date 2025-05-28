@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaissleepy123
-- 👀 I’m interested in: you (and taking money from the rich institutionals to the retails)
+- 👀 I’m interested in: living inside my own world of make belief
 - 🌱 I’m currently learning: how to code
 - 💞️ I’m looking to collaborate on: building a betting app, trading strats and bots
 - 📫 How to reach me: ughhhh dont
